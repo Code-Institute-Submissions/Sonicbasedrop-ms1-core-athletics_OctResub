@@ -1,104 +1,132 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## Table of Content
+----
+* [Purpose](#Purpose)
+* [User Experience Design (UX)](#User-Experience-Design)
+  * [User stories](#User-Stories)
+    * [First Time Visitor Goals](#First-Time-Visitor-Goals)
+    * [Returning Visitor Goals](#Returning-Visitor-Goals)
+    * [Frequent Visitor Goals](#Frequent-Visitor-Goals)
+  * [Structure](#Structure)
+  * [Design](#Design)
+    * [Colour Scheme](#Colour-Scheme)
+    * [Typography](#Typography)
+    * [Imagery](#Imagery)
+    * [Wireframes](#Wireframes)
 
-Welcome USER_NAME,
+# Milestone 1
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. The last update to this file was: **July 2, 2021**
+## Purpose
+----
+Purpose
+This Website was created for the sole purpose of completing the first Milestone
+Project for the Code Institute’s Full Stack Developer course. It was built using the
+knowledge gained from the HTML, CSS and User Centric Design modules. A full
+list of technologies used can be found in the technologies section of this
+document.
+Core Athletics (CA) Responsive Website
 
-## Gitpod Reminders
+CA was built upon request by the founder of the Core Athletics Fitness Centre. 
+The client wanted a fully responsive website that could be used
+to advertise its services and showcase its facilities and expertise within the area of fitness. Ultimately, the client wants to attract new members, as well as retain and expand its client base.
+***
+## User Experience Design
+----
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### User Stories
+#### First Time Visitor Goals
+ * As a First Time user, I want to easily understand the main purpose of
+the site and learn more about CA and its services.
+* As a First Time user, I want to be able to easily navigate throughout
+the site to find content.
+* As a First Time user, I want to view the website and content clearly on
+mobile devices and tablets.
+* As a First Time user, I want to find ways to follow Core Athletics on
+different social media platforms.
+* As a First Time use, I want to find contact information to the fitness centre.
 
-`python3 -m http.server`
+#### Returning Visitor Goals
+* As a Returning user, I want to be able to book a personal trainer, rehab, bootcamp and other services. 
+* As a Returning user, I want to contact the fitness centre so I can request more about the fitness centre’s services.
 
-A blue button should appear to click: _Make Public_,
+#### Frequent Visitor Goals
+*	As a Frequent user, I want to get information about new fitness classes, i.e. bootcamp activities. 
+* As a Frequent user, I want to check if there are any new photos from the fitness centre’s latest bootcamp activities. 
+* As a Frequent user, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or the fitness centre.
+d.	As a Frequent user, I want to get informed of any new offers by the fitness centre.
 
-Another blue button should appear to click: _Open Browser_.
+#### Structure
+All Pages will contain a Navigation menu at the top of the Webpage that directs them to a new Page to easily allow users to Navigate the site easily. The Navigation Menu will be collapsible on a Mobile device to make use of space on smaller devices. The purpose of this is to fulfill user story:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* As a First Time user, I want to be able to easily navigate throughout the site to find content.
 
-A blue button should appear to click: _Make Public_,
+The Home Page will contain appealing visuals and limited information of CA. The purpose of this is to fulfill user story:
 
-Another blue button should appear to click: _Open Browser_.
+*	As a First Time user, I want to easily understand the main purpose of the site and learn more about CA.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Custom CSS and/or Bootstrap will be used to make the Website responsive by the use of media queries and/or the Bootstrap Grid system.
 
-To log into the Heroku toolbelt CLI:
+All pages will be responsive and the layouts will change dependent on screen size. This is to ensure content flow is appealing, images are displayed properly and that the content is not shrunk side by side, so small that it is unreadable. All pages will also include information about how CA adheres to guidelines regarding Covid-19. The purpose of this is to fulfill user story:
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+* As a First Time user, I want to view the website and content clearly on my mobile device.
+*	As a First Time user, I want to understand how CA adheres to guidelines regarding Covid-19.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+All pages will contain a Footer Element with FAQ, locations, social media, privacy policy and contact information. The icons used will be from font-awesome. These are referenced below in the Frameworks-Libraries-and-Programs-Used section of this document. The aim of the Footer elements is to fulfill user stories:
 
-------
+*	As a First Time user, I want to find ways to follow CA on different social media platforms.
+*	As a First Time user, I want to know where CA is located
+*	As a First Time user, I want to get responses to my questions about CA (in FAQ)
+*	As a Returning user, I want to contact CA so I can request more information
 
-## Release History
+The About Page will contain a brief bio of CA. This page is to help implement user story:
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+*	As a First Time user, I want to easily understand the main purpose of the site and learn more about CA.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+The Gallery Page will contain 8-12 images from various CA fitness activities. The purpose of these galleries are to fulfill user story:
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+*	As a Frequent user, I want to check to see if there are any new photos and media from CA activities.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+The Pricing Page will contain prices of CA’s various services. The purpose of this is to fulfill user stories:
+*	As a First Time user, I want to get an overview of the price of CA’s services.
+*	As a Returning user, I want to be able to purchase selected services. 
+*	As a Frequent user, I want to check for discounts and VIP offers. 
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+The Contact Page will contain a form that can be used to contact CA through the website. This will also contain a check box that will allow the user to sign up for CA’s newsletter in order to keep up to date with the fitness centre. The purpose of this Page is to fulfill user stories:
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+*	As a Returning user, I want to contact the organisation so I can request more information.
+*	As a Frequent user, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or CA.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Design
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+#### Colour Scheme
+The four main colours used are Black, Gray, White and Blue, as these are aligned with CA brand colours. 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+#### Typography
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+The headers on all pages throughout the Website are using the Roboto font, while the main text is using the Poppins font. Montserrat is the fallback font in case for any reason the font isn’t being imported into the site correctly. 
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+#### Imagery
+Imagery is important. Therefore, the many hero and background images are chosen in order to catch the users’ attention and create a feel good atmosphere and sense of the aspiration towards a health, holistic life style that CA offers its clients. 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Images have provided by CA and contributors to [Unsplash.](https://unsplash.com/) Photo credits are further detailed in the credit section.
+#### Wireframes
+Home page<br>
+![Home Page Wireframe](assets/wireframes/home-wireframe.jpg)<br> 
+About Page<br>
+![About Page Wireframe](assets/wireframes/about-wireframe.jpg)<br>
+Gallery Page<br>
+![Gallery Page Wireframe](assets/wireframes/gallery-wireframe.jpg)<br>
+Pricing Page<br>
+![Pricing Page Wireframe](assets/wireframes/pricing-wireframe.jpg)<br>
+Contact Page<br>
+![Contact Page Wireframe](assets/wireframes/contact-wireframe.jpg)<br>
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+For full Size PDF´s of wireframes click links below.
+* [Home Page Wireframe](assets/wireframes/home.pdf)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+* [About Page Wireframe](assets/wireframes/about.pdf)
 
-------
+* [Gallery Page Wireframe](assets/wireframes/gallery.pdf)
 
-## FAQ about the uptime script
+* [Pricing Page Wireframe](assets/wireframes/pricing.pdf)
 
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+* [Contact Page Wireframe](assets/wireframes/contact.pdf)
