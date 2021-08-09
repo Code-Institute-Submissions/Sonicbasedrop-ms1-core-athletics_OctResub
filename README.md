@@ -102,7 +102,7 @@ The four main colours used are Black, Gray, White and Blue, as these are aligned
 
 #### Typography
 
-The headers on all pages throughout the Website are using the Roboto font, while the main text is using the Poppins font. Montserrat is the fallback font in case for any reason the font isn’t being imported into the site correctly. 
+The headers on all pages throughout the Website are using the Roboto font, while the main text is using the Lato font. Sans-serif is the fallback font in case for any reason the font isn’t being imported into the site correctly. 
 
 #### Imagery
 Imagery is important. Therefore, the many hero and background images are chosen in order to catch the users’ attention and create a feel good atmosphere and sense of the aspiration towards a health, holistic life style that CA offers its clients. 
@@ -110,15 +110,15 @@ Imagery is important. Therefore, the many hero and background images are chosen 
 Images have provided by CA and contributors to [Unsplash.](https://unsplash.com/) Photo credits are further detailed in the credit section.
 #### Wireframes
 Home page<br>
-![Home Page Wireframe](assets/wireframes/home-wireframe.jpg)<br> 
+![Home Page Wireframe](docs/wireframes/home-wireframe.jpg)<br> 
 About Page<br>
-![About Page Wireframe](assets/wireframes/about-wireframe.jpg)<br>
+![About Page Wireframe](docs/wireframes/about-wireframe.jpg)<br>
 Gallery Page<br>
-![Gallery Page Wireframe](assets/wireframes/gallery-wireframe.jpg)<br>
+![Gallery Page Wireframe](docs/wireframes/gallery-wireframe.jpg)<br>
 Pricing Page<br>
-![Pricing Page Wireframe](assets/wireframes/pricing-wireframe.jpg)<br>
+![Pricing Page Wireframe](docs/wireframes/pricing-wireframe.jpg)<br>
 Contact Page<br>
-![Contact Page Wireframe](assets/wireframes/contact-wireframe.jpg)<br>
+![Contact Page Wireframe](docs/wireframes/contact-wireframe.jpg)<br>
 
 For full Size PDF´s of wireframes click links below.
 * [Home Page Wireframe](assets/wireframes/home.pdf)

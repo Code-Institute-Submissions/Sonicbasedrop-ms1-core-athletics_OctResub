@@ -17,13 +17,25 @@ h2 {
     letter-spacing: 4px;
     color: #555;
 }
+/*------------------------------------------- Heading Section */
+
+
+header  {
+    height: 75px;
+    padding: 0;
+    overflow-x: hidden;
+    background: rgba(0, 0, 0, 0.9);
+    color: rgb(238, 230, 230);
+}
+
 
 #logo {
     float: left;
     font-size: 280%;
     margin-left: 30px;
+    color: rgb(238, 230, 230);
 }
-/*------------------------------------------- Heading */
+
 #menu {
     font-size: 110%;
     list-style-type: none;
@@ -32,12 +44,14 @@ h2 {
 
 #logo, #menu {
     line-height: 75px;
+    
+    
 }
 
 #menu li {
     float: right;
     margin-right: 30px;
-    
+    padding-bottom: 16px;
 }
 
 #menu a {
@@ -53,7 +67,7 @@ h2 {
     border-bottom: 1px solid #777;
 }
 
-/*------------------------------------------- Hero Image */
+/*------------------------------------------- Hero Image Section */
 
 #hero-image {
     height: 940px;
@@ -81,7 +95,11 @@ transform: scale(1.1);
     }
 }
 
-#cover-text, #cover-text h2 {
+#cover-text h2  {
+    color: rgb(248, 94, 94);
+}
+
+#cover-text {
     color: #fff;
 }
 
@@ -89,7 +107,7 @@ transform: scale(1.1);
     font-size: 130%;
     font-family: "Montserrat" "sans-serif";
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
 
     width: 350px;
     height: 300px;
@@ -97,43 +115,100 @@ transform: scale(1.1);
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgba(240, 124, 16, 0.801);
+    background-color: rgba(39, 109, 189, 0.5);
 
     bottom: 30px;
     right: 150px;
     position: absolute;
 }
 
-#coe-ethos {
-    height: 600px;
+/*---------------------------------------Ethos Section*/
 
+#core-ethos {
+    height: 900px;
+    
 }
+
+#why-join {
+    margin: 20px 0;
+    text-align: center;
+    text-transform: uppercase;
+    color: #555;
+    
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;  
+    border-color: rgb(54, 54, 54);
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url("../images/6jXWRQg.jpeg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
 
 #left-about {
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color: blue;
+    
 } 
 
 #right-about  {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: grey;
+    
   } 
  
   #center-about  {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
-  } 
+    
+  }
+  
+  hr {
+      border-top: 1px solid #777;
+      width: 100%;
+      margin: 5px 0;
+  }
 
-/*------------------------------------------- Footer */
+.left-about-heading {
+    width: 50%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+
+.right-about-heading {
+    width: 50%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+
+
+/*--------------------------- Fotter */
+
 
 footer {
-    height: 150px;
+    height: 200px;
+    background: rgba(0, 0, 0, 0.9);
+    padding: 20px 25px;
     
+         
 }
 
 footer p > span {
@@ -141,23 +216,47 @@ footer p > span {
 }
 
 
-#sticky-footer {
-    position: fixed;
-    bottom: 0;
+
+footer .column i {
+    padding: 5px;
+    color: rgb(105, 102, 102);
+    
+}
+
+footer input::placeholder {
+    color: rgb(146, 141, 141) !important;
+}
+
+footer .input-group .input-group-text {
+    color: rgb(105, 102, 102);
+}
+
+
+#relative-footer {
+    position: relative;
+    bottom: 20px;
     width: 100%;
       
 }
 
+#mail-c-a {
+    color: rgb(105, 102, 102);
+    text-decoration: none;
+}
+
+/* Commented out for now due som issues with finding correct css coding (for now coding in html docs)
 .social-networks {
+    
     list-style-type: none;
     text-align: center;
     
+   
 }
 
 .social-networks li {
     display: inline;
     
-}
+    }
 
 .social-networks i {
     font-size: 160%;
@@ -166,3 +265,9 @@ footer p > span {
     color: #777;
     
 }
+
+.text-right {
+    float:right
+}
+
+*/
