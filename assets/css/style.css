@@ -410,6 +410,7 @@ footer .input-group .input-group-text {
     clear: left;
     background: url("../images/deadlift.jpg") no-repeat center center;
     background-size: cover;
+    position: bottom;
     height: 600px;
     width: 100%;
 }
@@ -423,8 +424,8 @@ footer .input-group .input-group-text {
     color: #fff;
     display: inline-block;
 
+    margin-top: 75px;
     
-    margin-bottom: 75px;
 }
 
 .card h3 {
