@@ -234,13 +234,14 @@ transform: scale(1.1);
         height:288px;
         float: left;
     }
-
+/*
     footer {
         width: 100%;
         float: left;
         margin-top: 0;
         margin-bottom: 0;
     }
+    */
 }
 
 
@@ -285,14 +286,14 @@ transform: scale(1.1);
         height:288px;
         float: left;
     }
-
+/*
     footer {
         width: 100%;
         float: left;
        
        
     }
-    
+    */
 
 }
 
@@ -312,7 +313,7 @@ transform: scale(1.1);
     color: rgb(253, 249, 232);
     background-color: rgba(39, 109, 189, 0.5);
     max-width: 500px;
-    position: absolute;
+    position: relative;
     left: 10%;
     padding: 30px;
 }
@@ -364,9 +365,9 @@ margin-bottom: 20px;
 footer {
     position: absolute;
     display: block;
-    height: 175px;
     background: rgba(0, 0, 0, 0.9);
     padding: 20px 25px;
+    
          
 }
 
