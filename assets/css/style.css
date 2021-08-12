@@ -129,6 +129,53 @@ transform: scale(1.1);
     
 }
 
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    
+} 
+
+#right-about  {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    
+  } 
+ 
+  #center-about  {
+    width: 33%;
+    margin: 0 auto;
+    
+  }
+
+  hr {
+    border-top: 1px solid #777;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-about-heading {
+    width: 50%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+
+.right-about-heading {
+    width: 50%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h2 {
+    text-align:left;
+}
+
 #why-join {
     margin: 20px 0;
     text-align: center;
@@ -154,54 +201,9 @@ transform: scale(1.1);
     border-radius: 50%;
 }
 
+/*--------------------------- Media Queries Responsive Large Size*/
 
-#left-about {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-    
-} 
-
-#right-about  {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-    
-  } 
- 
-  #center-about  {
-    width: 33%;
-    margin: 0 auto;
-    
-  }
-  
-  hr {
-      border-top: 1px solid #777;
-      width: 100%;
-      margin: 5px 0;
-  }
-
-.left-about-heading {
-    width: 50%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
-
-
-.right-about-heading {
-    width: 50%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
-
-
-/*--------------------------- Media Queries Responsive lg-Size*/
-
-@media screen and (max-width: 1200px ) {
+@media screen and (max-width: 1396px ) {
     #core-ethos {
         width: 65%;
         height: 600px;
@@ -232,8 +234,8 @@ transform: scale(1.1);
     }
     .card {
         width: 100%;
-        height:288px;
         float: left;
+        
     }
 
     footer {
@@ -248,7 +250,7 @@ transform: scale(1.1);
 }
 
 
-/*--------------------------- Media Queries Responsive Size*/
+/*--------------------------- Media Queries Responsive Medium Size*/
 
 @media screen and (max-width: 943px) {
     #menu {
@@ -286,11 +288,11 @@ transform: scale(1.1);
 
     .card {
         width: 100%;
-        height:288px;
         float: left;
     }
 
     footer {
+        
         width: 100%;
         float: left;
         margin: auto;
@@ -299,12 +301,7 @@ transform: scale(1.1);
     }
     
 
-}
-
-
-
-/*---------------------------------------Form Section*/
-
+}/*---------------------------------------Form Section*/
 .form-section {
     clear: left;
     background: url("../images/rybk3Zj.jpeg") no-repeat center center;
