@@ -246,6 +246,9 @@ transform: scale(1.1);
        
        
     }
+    .contact-form {
+        position: relative;
+    }
     
 }
 
@@ -299,9 +302,13 @@ transform: scale(1.1);
        
        
     }
-    
+    .contact-form {
+        position: relative;
+    }
 
-}/*---------------------------------------Form Section*/
+}
+
+/*---------------------------------------Form Section*/
 .form-section {
     clear: left;
     background: url("../images/rybk3Zj.jpeg") no-repeat center center;
@@ -314,7 +321,7 @@ transform: scale(1.1);
     color: rgb(253, 249, 232);
     background-color: rgba(39, 109, 189, 0.5);
     max-width: 500px;
-    position: absolute;
+    position: relative;
     left: 10%;
     padding: 30px;
 }
@@ -459,7 +466,7 @@ footer .input-group .input-group-text {
     background-color: rgb(248, 94, 94);
     color: rgb(253, 249, 232);
 }
-
+/*------------------------------------------ Sticky Footer Helper*/
 .short-page {
     display: flex;
     flex-direction: column;
