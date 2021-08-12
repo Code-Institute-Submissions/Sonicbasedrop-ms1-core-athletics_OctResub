@@ -305,7 +305,7 @@ transform: scale(1.1);
     color: rgb(253, 249, 232);
     background-color: rgba(39, 109, 189, 0.5);
     max-width: 500px;
-    position: relative;
+    position: absolute;
     left: 10%;
     padding: 30px;
 }
