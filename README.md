@@ -110,23 +110,13 @@ Imagery is important. Therefore, the many hero and background images are chosen 
 Images have provided by CA and contributors to [Unsplash.](https://unsplash.com/) Photo credits are further detailed in the credit section.
 #### Wireframes
 Home page<br>
-![Home Page Wireframe](docs/wireframes/home-wireframe.jpg)<br> 
-About Page<br>
-![About Page Wireframe](docs/wireframes/about-wireframe.jpg)<br>
-Gallery Page<br>
-![Gallery Page Wireframe](docs/wireframes/gallery-wireframe.jpg)<br>
+![Home Page Wireframe](docs/wireframes/home-wf.png)<br> 
 Pricing Page<br>
-![Pricing Page Wireframe](docs/wireframes/pricing-wireframe.jpg)<br>
+![Pricing Page Wireframe](docs/wireframes/pricing-wf.png)<br>
 Contact Page<br>
-![Contact Page Wireframe](docs/wireframes/contact-wireframe.jpg)<br>
+![Contact Page Wireframe](docs/wireframes/contact-wf.png)<br>
 
 For full Size PDF´s of wireframes click links below.
-* [Home Page Wireframe](assets/wireframes/home.pdf)
-
-* [About Page Wireframe](assets/wireframes/about.pdf)
-
-* [Gallery Page Wireframe](assets/wireframes/gallery.pdf)
-
-* [Pricing Page Wireframe](assets/wireframes/pricing.pdf)
-
-* [Contact Page Wireframe](assets/wireframes/contact.pdf)
+* [Home Page Wireframe](docs/wireframes/home-wf.pdf)
+* [Pricing Page Wireframe](docs/wireframes/pricing-wf.pdf)
+* [Contact Page Wireframe](docs/wireframes/contact-wf.pdf)
