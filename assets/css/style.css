@@ -239,9 +239,6 @@ transform: scale(1.1);
 
     footer {
         width: 100%;
-        /*
-        float: left;
-        */
         margin: auto;
         
        
@@ -291,16 +288,12 @@ transform: scale(1.1);
     } 
 
     .card {
-        width: 100%;
-        
+        width: 100%;    
     }
 
     footer {
         
         width: 100%;
-        /*
-        float: left;
-        */
         margin: auto;
    
     }
@@ -316,11 +309,11 @@ transform: scale(1.1);
     footer {
      
         width: 100%;
-        /*
-        float: left;
-        */
         margin: auto;
-      
+          
+    }
+    .card {
+        width: 100%;
     }
 
 }
