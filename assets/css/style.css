@@ -363,7 +363,8 @@ margin-bottom: 20px;
 
 
 footer {
-    position: absolute;
+    position: relative;
+    width: 100%;
     display: block;
     background: rgba(0, 0, 0, 0.9);
     padding: 20px 25px;
@@ -391,13 +392,13 @@ footer .input-group .input-group-text {
     color: rgb(105, 102, 102);
 }
 
-
+/*
 #relative-footer {
     position: relative;
      width: 100%;
       
 }
-
+*/
 #mail-c-a {
     color: rgb(105, 102, 102);
     text-decoration: none;
