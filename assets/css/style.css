@@ -253,7 +253,7 @@ hr {
 
     footer {
         width: 100%;
-        margin: auto;
+        position: relative;
 
 
 
@@ -312,7 +312,7 @@ hr {
     footer {
 
         width: 100%;
-        margin: auto;
+        position: relative;
 
     }
 
@@ -342,7 +342,7 @@ hr {
     footer {
 
         width: 100%;
-        margin: auto;
+        position: relative;
 
     }
 
@@ -404,7 +404,7 @@ hr {
     footer {
 
         width: 100%;
-        margin: auto;
+        position: relative;
 
     }
 
