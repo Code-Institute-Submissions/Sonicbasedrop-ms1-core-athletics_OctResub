@@ -192,11 +192,11 @@ transform: scale(1.1);
     border-radius: 50%;
 }
 
-/*--------------------------- Media Queries Large devices*/
+/*--------------------------- Media Queries X-Large devices*/
 
 @media screen and (max-width: 1200px ) {
     #core-ethos {
-        width: 65%;
+        width: 100%;
         height: 600px;
         margin: 0 auto;
     }
@@ -260,9 +260,9 @@ transform: scale(1.1);
 }
 
 
-/*--------------------------- Media Queries Medium Devices*/
+/*--------------------------- Media Queries Large Devices*/
 
-@media screen and (max-width: 991.98px) {
+@media screen and (max-width: 992px) {
     #menu {
         clear: left;
         float: left;
@@ -277,7 +277,7 @@ transform: scale(1.1);
     }
 
     #core-ethos {
-        width: 90%;
+        width: 100%;
         height: 1200px;
         margin: 0 auto;
     }
@@ -312,9 +312,9 @@ transform: scale(1.1);
 
 }
 
-/*--------------------------- Media Queries for Small devices*/
+/*--------------------------- Media Queries for Medium devices*/
 
-@media (max-width: 767.98px) {
+@media (max-width: 768px) {
 
     #logo {
         float: left;
@@ -324,7 +324,7 @@ transform: scale(1.1);
     }
 
     #core-ethos {
-        width: 110%;
+        width: 100%;
         height: 1200px;
         margin: 0 auto;
     }
@@ -348,6 +348,47 @@ transform: scale(1.1);
     }
 }
 
+/*--------------------------- Media Queries for Small devices*/
+@media (max-width: 576px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    #cover-text {
+        left: 0px;
+    }
+    #core-ethos {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+    }
+    .left-about-heading h2, .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+    .left-about-heading p, .right-about-heading p {
+         text-align: center;
+         padding: 0 20px 0 20px;
+    } 
+    .card {
+        width: 100%;    
+    }
+    footer {
+        
+        width: 100%;
+        margin: auto;
+   
+    }
+    .contact-form {
+        position: relative;
+    }
+}
 
 
 /*---------------------------------------Form Section*/
@@ -460,9 +501,9 @@ footer .input-group .input-group-text {
 
 /*------------------------------------------ Pricing/Button Cards Section*/
 
-.card {
-    
-    
+.card 
+{
+
     background-color: rgba(39, 109, 189, 0.5);
     color: #fff;
     display: inline-block;
