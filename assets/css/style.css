@@ -501,6 +501,26 @@ footer .input-group .input-group-text {
 
 /*------------------------------------------ Pricing/Button Cards Section*/
 
+.become-member > h1 {
+    padding-top: 8vmin;
+    padding-bottom: 8px;
+    color: #fff;
+    font-family: "Montserrat", poppins;
+}
+
+.become-member > p {
+    color: #fff;
+    font-size: 4vmin;
+}
+
+.become-member .cards .card {
+    width: 18rem;
+    margin: 2rem;
+
+}
+   
+
+
 .card 
 {
 
