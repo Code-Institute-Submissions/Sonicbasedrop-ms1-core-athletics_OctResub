@@ -508,6 +508,10 @@ footer .input-group .input-group-text {
     font-family: "Montserrat", poppins;
 }
 
+.become-member h1 > span {
+    color:rgb(248, 94, 94);
+}
+
 .become-member > p {
     color: #fff;
     font-size: 4vmin;
@@ -519,8 +523,6 @@ footer .input-group .input-group-text {
 
 }
    
-
-
 .card 
 {
 
