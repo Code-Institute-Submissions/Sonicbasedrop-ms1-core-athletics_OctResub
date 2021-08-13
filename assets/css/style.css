@@ -194,7 +194,7 @@ transform: scale(1.1);
 
 /*--------------------------- Media Queries Large devices*/
 
-@media screen and (max-width: 1199.98px ) {
+@media screen and (max-width: 1200px ) {
     #core-ethos {
         width: 65%;
         height: 600px;
@@ -206,6 +206,24 @@ transform: scale(1.1);
         text-align: center;
         font-size: 180%;
     }
+
+    .left-about-heading {
+        width: 50%;
+        float: right;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+    }
+    
+    
+    .right-about-heading {
+        width: 50%;
+        float: left;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+    }
+    
 
     #left-about, #right-about {
         width: 100%;
@@ -399,7 +417,7 @@ footer {
     width: 100%;
     display: block;
     background: rgba(0, 0, 0, 0.9);
-    padding: 20px 25px;
+    
     
          
 }
@@ -501,3 +519,6 @@ footer .input-group .input-group-text {
     flex: 1;
 
 }
+
+
+
