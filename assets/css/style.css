@@ -455,8 +455,8 @@ margin-bottom: 20px;
 
 footer {
     position: relative;
+    padding: 1vmin 3vmin;
     width: 100%;
-    display: block;
     background: rgba(0, 0, 0, 0.9);
     
     
@@ -505,7 +505,7 @@ footer .input-group .input-group-text {
     padding-top: 8vmin;
     padding-bottom: 8px;
     color: #fff;
-    font-family: "Montserrat", poppins;
+    font-family: "Montserrat", sans-serif;
 }
 
 .become-member h1 > span {
@@ -542,7 +542,6 @@ footer .input-group .input-group-text {
 
 .card-subtitle {
     color: #fff;
-    text-transform: uppercase;
     margin-top: 5px;
 }
 
@@ -582,6 +581,10 @@ footer .input-group .input-group-text {
     flex: 1;
 
 }
+
+
+
+
 
 
 
