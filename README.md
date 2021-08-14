@@ -22,6 +22,8 @@
   *  [Out of Scope](#Out-of-Scope)
   * [Test Result](#Test-Results)
   * [Deployment](#Deployment)
+* [Credits](#Credits)
+* [Acknowledgements](#Acknowledgements)
 
 # Milestone 1
 
@@ -219,7 +221,7 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
 
 # Deployment
 ---
-### Project Creation
+### Project Creation <br>
   * The project was started by me navigating GitHub.com and then I clicked on my repositories. I then clicked on botton for [new repository.](https://github.com/new) <br>
   * After that I clicked on the drop-down menu and clicked on [Code-Institute-Org/gitpod-full-template.](https://github.com/Sonicbasedrop/GitPod-full-template#readme) I then gave my repository a name (ms1-core-athletics). <br>
   *  Thereafter I gave the website a description (A responsive website for my MS1). I then checked ‘Public’-botton. I added the README.md file and .gitignore. 
@@ -228,7 +230,35 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
   * git commit -m commit message explaining the updates - This command was used to commit changes to the local repository.
   * git push - This command is used to push all committed changes to the GitHub repository.
 
+## Using Github Pages <br>
+  1.	Navigate to the [GitHub Repository:](https://github.com/Sonicbasedrop/ms1-core-athletics)
+  2.	Click my current repository. 
+  3.	Click on the 'Settings' Tab.
+  4.	Click on the Git Hub Pages Heading.
+  5.  Click on the link to go to the live deployed page.
+  ---
+  # Credits
+  ---
+  ### Code 
+    * The code to style the footer, including newsletter input field was taken from: [akashyap2013](www.dailywebtuition.com) <br>
+    * Cards in contact.html taken from [Bootstrap](https://getbootstrap.com/)<br>
 
+    ### Content
+    * The content of this software was created by Ivan Ulysses based on research discussion with Stina Nilsson, EGS/T.<br>
+
+    ### Media
+      * The photos used on the website were downloaded from contributors to unsplash.com, a free image and photos site. 
+          * Hero image on index.html was supplied by [Anastase Maragos](https://unsplash.com/photos/HyvE5SiKMUs)
+          * Background cover image on index.html was supplied by [Hayley Kim Design](https://unsplash.com/photos/eot-ka5dM7Q)<br>
+          * Background image on contact.html was supplied by [John Arano](https://unsplash.com/photos/h4i9G-de7Po)<br>
+          * Backround image on pricing.html was supplied by [Victor Freitas](https://unsplash.com/photos/hOuJYX2K5DA)<br>
+
+# Acknowledgements
+ * I would like to thank my mentor Daisy McGirr for her guidance, patience and support throughout my project. 
+ * I would like  to thank my fellow student Matt Bodden for helping me with some issue encountered with some of my code. 
+        
+
+ 
 
 
 
