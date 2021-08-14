@@ -235,7 +235,9 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
   2.	Click my current repository. 
   3.	Click on the 'Settings' Tab.
   4.	Click on the Git Hub Pages Heading.
-  5.  Click on the link to go to the live deployed page.
+  5.  Select 'Master Branch' as the source.
+  6.  Click the Save button.
+  7.  Click on the link to go to the live deployed page.
   ---
   # Credits
   ---
