@@ -240,7 +240,7 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
   # Credits
   ---
   ### Code 
-    * The code to style the footer, including newsletter input field was taken from: [akashyap2013](www.dailywebtuition.com) <br>
+    * The code to style the footer, including newsletter input field was taken from:[akashyap2013 youtube-page](https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw)<br>
     * Cards in contact.html taken from [Bootstrap](https://getbootstrap.com/)<br>
 
     ### Content
