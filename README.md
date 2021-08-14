@@ -220,11 +220,13 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
 # Deployment
 ---
 ### Project Creation
-  * The project was started by me navigating GitHub.com and then I clicked on my repositories. I then clicked on botton for new repository. After that I clicked on the drop-down menu and clicked on [Code-Institute-Org/gitpod-full-template.](https://github.com/Sonicbasedrop/GitPod-full-template#readme) I then gave my repository a name (ms1-core-athletics). Thereafter I gave the website a description (A responsive website for my MS1). I then checked ‘Public’-botton. I added the README file and .gitignore. 
-Opening a the terminal in Gitpod, I then added my asset folders, CSS folder etc. The following commands were used throughout the project:
-•	git add filename - This command was used to add files to the staging area before committing.
-•	git commit -m commit message explaining the updates - This command was used to commit changes to the local repository.
-•	git push - This command is used to push all committed changes to the GitHub repository.
+  * The project was started by me navigating GitHub.com and then I clicked on my repositories. I then clicked on botton for [new repository.](https://github.com/new) <br>
+  * After that I clicked on the drop-down menu and clicked on [Code-Institute-Org/gitpod-full-template.](https://github.com/Sonicbasedrop/GitPod-full-template#readme) I then gave my repository a name (ms1-core-athletics). <br>
+  *  Thereafter I gave the website a description (A responsive website for my MS1). I then checked ‘Public’-botton. I added the README.md file and .gitignore. 
+  * Opening a the terminal in Gitpod, I then added my asset folders, CSS folder etc. The following commands were used throughout the project:
+	* git add filename - This command was used to add files to the staging area before committing.
+  * git commit -m commit message explaining the updates - This command was used to commit changes to the local repository.
+  * git push - This command is used to push all committed changes to the GitHub repository.
 
 
 
