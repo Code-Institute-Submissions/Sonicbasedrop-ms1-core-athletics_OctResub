@@ -208,8 +208,11 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
    * As a Frequent user, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes. - Testing was to performed to validate newsletter field in footer is functioning. 
 
    ### Issues and Resolutions to issues found during testing
-      * •	Dragging down website to 400px made the Contact form on contact.html become slightly off-centered (slightly to the right). 
-      working flat out to resolve issue, 3h to project submition.
+      * Dragging down website to 400px made the Contact form on contact.html become slightly off-centered (slightly to the right). 
+      working flat out to resolve issue, 3h to project submition.<br>
+
+      * had a issue with footer not stycking to bottom of page, resolved the problem with a short-page class in style.css
+
 
 
 
