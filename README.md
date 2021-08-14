@@ -32,7 +32,11 @@ Project for the Code Institute’s Full Stack Developer course. It was built usi
 knowledge gained from the HTML, CSS and User Centric Design modules. A full
 list of technologies used can be found in the technologies section of this
 document.
-Core Athletics (CA) Responsive Website
+
+A live version of website can be found [here](https://sonicbasedrop.github.io/ms1-core-athletics/index.html)
+
+## Core Athletics (CA) Responsive Website
+![Mock Up](assets/images/readme-images/mock-up.png)
 
 ***
 ## User Experience Design
@@ -112,9 +116,9 @@ Contact Page<br>
 ![Contact Page Wireframe](docs/wireframes/contact-wf.png)<br>
 
 For full Size PDF´s of wireframes click links below.
-* [Home Page Wireframe](docs/wireframes/home-wf.pdf)
-* [Pricing Page Wireframe](docs/wireframes/pricing-wf.pdf)
-* [Contact Page Wireframe](docs/wireframes/contact-wf.pdf)
+* ![Home Page Wireframe](docs/wireframes/home-wf.pdf)<br>
+* ![Pricing Page Wireframe](docs/wireframes/pricing-wf.pdf)<br>
+* ![Contact Page Wireframe](docs/wireframes/contact-wf.pdf)<br>
 
 * ### Limitations
 Due to no JavaScript functionality, apart from Bootstraps, the contact forms will not store data or send email requests. This includes the newsletter input field.
@@ -186,7 +190,11 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
      * Testing form validation for phone number is out of scope. No regexp has been implemented. 
 
 #### Test Results
-  ![Test Results](asstes/images/readme-images/test-result.png)
+  ![Test Results](assets/images/readme-images/test-result.png)
+
+   * All Pages were run through the W3C HTML Validator and showed?
+     CSS Stylesheet was run through the W3C CSS Validator and showed no errors
+
 
 
 
