@@ -213,6 +213,8 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
 
       * had a issue with footer not stycking to bottom of page, resolved the problem with a short-page class in style.css
 
+      * found a issue with contact form not aligning as expected in contact.html page working to resolve issue.
+
 
 
 
