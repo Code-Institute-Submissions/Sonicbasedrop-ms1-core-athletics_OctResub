@@ -97,7 +97,7 @@ The Contact Page will contain a form that can be used to contact CA through the 
 ### Design
 
 #### Colour Scheme
-The four main colours used are Red, Black, Gray and White. 
+The four main colours used are redish #F85E5E, Blue #276dbd, Gray #696666 and White #fff. 
 
 #### Typography
 
@@ -194,6 +194,19 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
 
    * All Pages were run through the W3C HTML Validator and showed?
      CSS Stylesheet was run through the W3C CSS Validator and showed no errors
+
+   * As a First Time user, I want to easily understand the main purpose of the site and learn more about CA. - Testing was performed to ensure CA information was displayed on the Home Page.
+
+   * As a First Time user, I want to be able to easily navigate throughout the site to find content. - Testing was performed on all Navigation links to ensure users can easily navigate the Website.
+
+   * As a First Time user, I want to view the website and content clearly on my mobile device. - Testing was performed to ensure the Website was responsive on all devices, except for iPhone 5SE.
+
+   * As a First Time user, I want to find ways to follow CA on different social media platforms. - Testing was performed to ensure Social Media links had been added to the Website.
+
+   * As a Returning user, I want to contact CA so I can request more information. - Testing was done to ensure there was a functioning contact form on the Website and that the Footer also contained contact information.
+
+   * As a Frequent user, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes. - Testing was to performed to validate newsletter field in footer is functioning. 
+
 
 
 
