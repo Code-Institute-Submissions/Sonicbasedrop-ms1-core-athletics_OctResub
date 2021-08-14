@@ -97,7 +97,7 @@ The Contact Page will contain a form that can be used to contact CA through the 
 ### Design
 
 #### Colour Scheme
-The four main colours used are redish #F85E5E, Blue #276dbd, Gray #696666 and White #fff. 
+The four main colours used are shade of Red #F85E5E, shade of Blue #276dbd, Gray #696666 and White #fff. 
 
 #### Typography
 
