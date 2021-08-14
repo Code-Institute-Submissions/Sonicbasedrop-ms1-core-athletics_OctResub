@@ -12,6 +12,10 @@
     * [Typography](#Typography)
     * [Imagery](#Imagery)
     * [Wireframes](#Wireframes)
+  * [Limitations](#Limitations)
+  * [Features](#Features)
+  * [Features Left to Implement](#Features-Left-to-Implement)
+* [Technologies](#Technologies)
 
 # Milestone 1
 
@@ -107,3 +111,26 @@ For full Size PDF´s of wireframes click links below.
 * [Pricing Page Wireframe](docs/wireframes/pricing-wf.pdf)
 * [Contact Page Wireframe](docs/wireframes/contact-wf.pdf)
 
+* ### Limitations
+Due to no JavaScript functionality, apart from Bootstraps, the contact forms will not store data or send email requests. This includes the newsletter input field.
+---
+# Features
+---
+## Existing Features
+  * 	Newsletter input field on all pages. This allows users to sign up for CA’s latest updates.  
+  * 	Bootstrap cards with information about CA services, with sign-up bottons.
+  *  On contact page – contact form, for users to be able to get in touch with CA.
+## Features Left to Implement
+  * 	A Bootstrap calendar, in order for users to be kept up to date and schedule participation in C | A activities and fitness classes.
+  *   In order to implement the calendar, sign-up and logins would have to be added, along with necessary backend resources.
+  ---
+  # Technologies
+  ---
+  ###	HTML
+     This project uses HTML as the main language used to complete the structure of the Website.
+  ## CSS 
+    	This project uses custom written CSS to style the Website.  
+  ## [Bootstrap](https://getbootstrap.com/)
+     The Bootstrap framework is used throughout this website for layouts and styling. 
+     Bootstrap has also been used to create cards on conatct.html and the footer.
+     
