@@ -16,6 +16,11 @@
   * [Features](#Features)
   * [Features Left to Implement](#Features-Left-to-Implement)
 * [Technologies](#Technologies)
+* [Testing](#Testing)
+  * [Summary](#Summary)
+  * [High Level Test Cases](#High-Level-Test-Cases)
+  *  [Out of Scope](#Out-of-Scope)
+  * [Test Result](#Test-Results)
 
 # Milestone 1
 
@@ -127,10 +132,73 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
   # Technologies
   ---
   ###	HTML
-     This project uses HTML as the main language used to complete the structure of the Website.
-  ## CSS 
+     * This project uses HTML as the main language used to complete the structure of the Website.
+  ### CSS 
     	This project uses custom written CSS to style the Website.  
-  ## [Bootstrap](https://getbootstrap.com/)
-     The Bootstrap framework is used throughout this website for layouts and styling. 
-     Bootstrap has also been used to create cards on conatct.html and the footer.
+  ### [Bootstrap](https://getbootstrap.com/)
+     * The Bootstrap framework is used throughout this website for layouts and styling. 
+     * Bootstrap has also been used to create cards on conatct.html and the footer.
+ ### [Fontawsome](https://fontawesome.com/)
+  *  Fontawesome Icons are used for the Social media links contained in the Footer section of the website.
+ ### [Google Fonts ](https://fonts.google.com/)   
+   *  Google fonts are used throughout the project to import the Montserrat and Poppins fonts.
+### [Gitpd](https://www.gitpod.io)
+   *  Gitpod is the Integrated Development Environment used to develop the Website.
+### [Github](https://github.com/)
+   * GithHub is the hosting site used to store the source code for the Website and [Git Pages](https://pages.github.com/) is used for the deployment of the live site.
+### [Git](https://git-scm.com/)
+  *  Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
+### [TinyJPG](https://tinypng.com/)
+  *  TinyJPG is used to reduce the file sizes of images before being deployed to reduce storage and bandwidth.
+### [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
+   * Google chromes built in developer tools are used to inspect page elements and help debug issues with the site layout and test different CSS styles.
+### [Balsamiq Wireframes](https://balsamiq.com/)
+  *  This was used to create wireframes for 'The Skeleton Plane' stage of UX design.
+### [Favicon](https://favicon.io/)
+   *  Favicon.io was used to make the site favicon
+### [Techsini](https://techsini.com/multi-mockup/index.php)
+   * tecnisih.com Multi Device Website Mockup Generator was used to create the Mockup image in this README.md
+    ---
+##  Testing
+---
+### Test Strategy
+#### Summary
+
+  * Testing is required on Milestone Project 1 – Core Athletics Responsive Website.
+
+  * As this project is static and contains no back-end functionality, the testing performed will be on the visual effects and layout of the Website. Testing to be done on at least three    web browsers and all screen sizes.
+
+  * No elements should overlap another container div. All elements should remain on the screen at all sizes above 300px. 
+
+  * All nav links should direct to the correct html pages as per their names. The Home page is the exception, this one will redirect to index.html.
+
+  * All links to external websites must open in a new browser.
+
+  * Testing of form validation will also be required to ensure the correct inputs are taken and that all fields are required.
+
+  * Validation of inclusion for all features included in the Structure of the Website / Wireframes must be performed.
+
+  * The live Project can be found [here](https://sonicbasedrop.github.io/ms1-core-athletics/index.html)
+
+  #### High Level Test Cases
+      ![High Level Test](assets/images/readme-images/high-level-test.png)
+#### Out of Scope
+     * Testing form validation for phone number is out of scope. No regexp has been implemented. 
+
+#### Test Results
+  ![Test Results](asstes/images/readme-images/test-result.png)
+
+
+
+
+
+
+
+
+
+    
+
+
+
+        
      
