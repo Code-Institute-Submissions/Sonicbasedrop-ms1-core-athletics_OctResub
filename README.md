@@ -195,7 +195,7 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
 #### Test Results
   ![Test Results](assets/images/readme-images/test-result.png)
 
-   * All Pages were run through the W3C HTML Validator and showed 
+   * All Pages were run through the W3C HTML Validator and showed no errors.
      CSS Stylesheet was run through the W3C CSS Validator and showed no errors
 
    * As a First Time user, I want to easily understand the main purpose of the site and learn more about CA. - Testing was performed to ensure CA information was displayed on the Home Page.
