@@ -161,8 +161,6 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
    * Google chromes built in developer tools are used to inspect page elements and help debug issues with the site layout and test different CSS styles.
 ### [Balsamiq Wireframes](https://balsamiq.com/)
   *  This was used to create wireframes for 'The Skeleton Plane' stage of UX design.
-### [Favicon](https://favicon.io/)
-   *  Favicon.io was used to make the site favicon
 ### [Techsini](https://techsini.com/multi-mockup/index.php)
    * tecnisih.com Multi Device Website Mockup Generator was used to create the Mockup image in this README.md
     ---
