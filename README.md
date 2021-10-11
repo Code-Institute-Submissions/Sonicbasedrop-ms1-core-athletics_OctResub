@@ -141,7 +141,7 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
   ###	HTML
      * This project uses HTML as the main language used to complete the structure of the Website.
   ### CSS 
-    	This project uses custom written CSS to style the Website.  
+    * This project uses custom written CSS to style the Website.  
   ### [Bootstrap](https://getbootstrap.com/)
      *  The Bootstrap framework is used throughout this website for layouts and styling. 
      *  Bootstrap has also been used to create cards on conatct.html and the footer.
