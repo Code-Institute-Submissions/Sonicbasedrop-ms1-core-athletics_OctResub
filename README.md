@@ -240,18 +240,18 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
   # Credits
   ---
   ### Code 
-    * The code to style the footer, including newsletter input field was taken from:[akashyap2013 youtube-page](https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw)<br>
-    * Cards in contact.html taken from [Bootstrap](https://getbootstrap.com/)<br>
+  * The code to style the footer, including newsletter input field was taken from:[akashyap2013 youtube-page](https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw)<br>
+  * Cards in contact.html taken from [Bootstrap](https://getbootstrap.com/)<br>
 
-    ### Content
-    * The content of this software was created by Ivan Ulysses based on research discussion with Stina Nilsson, EGS/T.<br>
+  ### Content
+  * The content of this software was created by Ivan Ulysses based on research discussion with Stina Nilsson, EGS/T.<br>
 
-    ### Media
-      * The photos used on the website were downloaded from contributors to unsplash.com, a free image and photos site. 
-          * Hero image on index.html was supplied by [Anastase Maragos](https://unsplash.com/photos/HyvE5SiKMUs)
-          * Background cover image on index.html was supplied by [Hayley Kim Design](https://unsplash.com/photos/eot-ka5dM7Q)<br>
-          * Background image on contact.html was supplied by [John Arano](https://unsplash.com/photos/h4i9G-de7Po)<br>
-          * Backround image on pricing.html was supplied by [Victor Freitas](https://unsplash.com/photos/hOuJYX2K5DA)<br>
+  ### Media
+  * The photos used on the website were downloaded from contributors to unsplash.com, a free image and photos site. 
+  * Hero image on index.html was supplied by [Anastase Maragos](https://unsplash.com/photos/HyvE5SiKMUs)
+  * Background cover image on index.html was supplied by [Hayley Kim Design](https://unsplash.com/photos/eot-ka5dM7Q)<br>
+  * Background image on contact.html was supplied by [John Arano](https://unsplash.com/photos/h4i9G-de7Po)<br>
+  * Backround image on pricing.html was supplied by [Victor Freitas](https://unsplash.com/photos/hOuJYX2K5DA)<br>
 
 # Acknowledgements
  * I would like to thank my mentor Daisy McGirr for her guidance, patience and support throughout my project. 
