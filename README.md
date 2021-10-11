@@ -139,12 +139,12 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
   # Technologies
   ---
   ###	HTML
-     * This project uses HTML as the main language used to complete the structure of the Website.
+  * This project uses HTML as the main language used to complete the structure of the Website.
   ### CSS 
-    * This project uses custom written CSS to style the Website.  
+  * This project uses custom written CSS to style the Website.  
   ### [Bootstrap](https://getbootstrap.com/)
-     *  The Bootstrap framework is used throughout this website for layouts and styling. 
-     *  Bootstrap has also been used to create cards on conatct.html and the footer.
+  * The Bootstrap framework is used throughout this website for layouts and styling. 
+  * Bootstrap has also been used to create cards on conatct.html and the footer.
  ### [Fontawsome](https://fontawesome.com/)
   *  Fontawesome Icons are used for the Social media links contained in the Footer section of the website.
  ### [Google Fonts ](https://fonts.google.com/)   
@@ -186,9 +186,9 @@ Due to no JavaScript functionality, apart from Bootstraps, the contact forms wil
   * The live Project can be found [here](https://sonicbasedrop.github.io/ms1-core-athletics/index.html)
 
   #### High Level Test Cases
-      ![High Level Test](assets/images/readme-images/high-level-test.png)
+  ![High Level Test](assets/images/readme-images/high-level-test.png)
 #### Out of Scope
-     * Testing form validation for phone number is out of scope. No regexp has been implemented. 
+  * Testing form validation for phone number is out of scope. No regexp has been implemented. 
 
 #### Test Results
   ![Test Results](assets/images/readme-images/test-result.png)
